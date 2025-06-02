@@ -7,6 +7,7 @@
   ls
   ls -l     # Long listing format
   ls -a     # Includes hidden file
+  ```
 
 ## 2. `cd`
 - **Description**: Changes the current directory.
