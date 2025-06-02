@@ -12,7 +12,7 @@
 - **Description**: Changes the current directory.
 - **Usage**: 
   ```bash
-  cd /path   #path: location of the required directory
+  cd /path  #path: location of the required directory
   cd /home/user/docs
   cd ..     #go up one level
   cd        #goes to home directory
@@ -71,10 +71,10 @@
 ## 10.Path
 - A path is a unique location to a file or a folder in a file system of an OS. A path to a file is a combination of / and alpha-numeric characters. 
 - Two types: **Absolute** and **Relative**
-- **Absolute**:specifying location of file or directory from the root directory(/).
+- **Absolute**: Specifying location of file or directory from the root directory(/).
   ```bash
   cd /home/docs/files
   cat /home/devops/commands.txt
-- **Relative**:Path related to the present working directory(pwd). Suppose I have multiple folders in current directory and I need to change to one of them I can use relative path. The path that does not start with / diectory.
+- **Relative**: Path related to the present working directory(pwd). Suppose I have multiple folders in current directory and I need to change to one of them I can use relative path. The path that does not start with / diectory.
   ```bash
   cd devopsdir/
