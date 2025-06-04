@@ -1,4 +1,4 @@
-# Notes on Files in Linux
+# Notes on Files in Linux📂
 
 ## Types of Files
 - **Regular files**: Text, images, binaries, etc.
@@ -10,7 +10,7 @@
 - **Write (w)**: Modify file contents.
 - **Execute (x)**: Run the file as a program.
 
-## Common Commands
+## Common Commands👨‍💻
 - `ls` – List files and directories.
 - `cp` – Copy files.
 - `mv` – Move or rename files.
@@ -25,7 +25,7 @@
 ## Hidden Files
 - Files starting with `.` are hidden (e.g., `.bashrc`).
 
-## Links
+## Links🔗
 - **Hard link**: Another name for a file.
 - **Symbolic link (symlink)**: Shortcut to another file.
 - create link by:
