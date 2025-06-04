@@ -28,6 +28,16 @@
 ## Links
 - **Hard link**: Another name for a file.
 - **Symbolic link (symlink)**: Shortcut to another file.
+- create link by:
+  ```bash
+  ln -s original_path link_name
+  ```
+- We can access the contents in the original path using link from the directory containing link using the link name easily.
+- Remove link:
+  ```bash
+  unlink link_name
+  ```
+  rm is also used to remove the link.
 
 ## File Ownership
 - Each file has an owner and a group.
