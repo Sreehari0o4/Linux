@@ -2,3 +2,4 @@
 * [Basic Commands](/basiccommands.md)
 * [VIM Commands](/vimcommands.md)
 * [Files](/files.md)
+* [Filter and Redirection](/filternredir.md)
